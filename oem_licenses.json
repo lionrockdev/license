@@ -1,3 +1,3 @@
 {
-  hosts : ["www.test.com"]
+  "hosts" : ["www.test.com"]
 }
